@@ -46,4 +46,4 @@ Alert System: Automated anomaly notifications
 
 Scalable Architecture: Kafka-based stream processing
 
-! "C:\Users\nikes\OneDrive\Pictures\Pictures\Screenshots\Screenshot (67).png"
+

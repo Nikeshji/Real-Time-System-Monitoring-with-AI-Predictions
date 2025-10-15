@@ -9,15 +9,25 @@
 
  # Requirements.txt
  psutil==5.9.0
+ 
 kafka-python==2.0.2
+
 tensorflow==2.10.0
+
 scikit-learn==1.2.0
+
 pandas==1.5.0
+
 numpy==1.23.0
+
 flask==2.3.0
+
 flask-socketio==5.3.0
+
 eventlet==0.33.0
+
 joblib==1.2.0
+
 matplotlib==3.6.0
 
 # Key Features
